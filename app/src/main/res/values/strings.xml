@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoAndroid2</string>
+    <string name="hint_nombre">Name:</string>
+    <string name="hint_celular">Cellphone:</string>
+    <string name="btn_Invertir">Invertir</string>
+    <string name="btn_Mostrar">Mostrar Información</string>
+</resources>
